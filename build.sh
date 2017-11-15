@@ -1,0 +1,1 @@
+pip install numpy pandas json cx_oracle sqlalchemy json
